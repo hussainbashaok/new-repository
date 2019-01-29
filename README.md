@@ -1,2 +1,2 @@
-# repositary1
+# Repositary1
 creating own repository
